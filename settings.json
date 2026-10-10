@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "SERVER BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "FELEXOKINDOME.aternos.me",
+    "port": 23355,
     "version": "",
     "try-creative": false
   },
